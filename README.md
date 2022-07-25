@@ -52,4 +52,4 @@ Cosine similarity is a metric used to measure how similar the documents are irre
 ![70401457-a7530680-1a55-11ea-9158-97d4e8515ca4](https://user-images.githubusercontent.com/64775171/180818286-a8281f5f-edc0-44f1-a9f5-cbda9a77e378.png)
 
 
-Cosine Similarity : Understanding the Math behind Cosine Similarity
+Cosine Similarity :[ Understanding the Math behind Cosine Similarity](https://www.youtube.com/watch?v=ieMjGVYw9ag)
