@@ -31,7 +31,7 @@ For this application i used a tmdb(https://developers.themoviedb.org/3/getting-s
   Machine Lerning
   
   
-  for finding the similarity by Cosine Similarity
+  for finding the similarity by through Cosine Similarity
   
   #### App Demo
   
