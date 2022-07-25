@@ -13,11 +13,13 @@ For this application i used a tmdb(https://developers.themoviedb.org/3/getting-s
   
   2)Pandas
   
-  3)Scikit-Learn
+  3)Numpy
   
-  4)Flask
+  4)Scikit-Learn
   
-  5)JavaScript
+  5)Flask
+  
+  6)JavaScript
   
   ##### Frontend designed by : HTML  ,CSS  ,BootSrap  ,JavaScipt
   ##### Teconologies Used : 
