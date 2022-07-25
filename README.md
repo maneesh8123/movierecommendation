@@ -1,6 +1,6 @@
 # Movies Recommendation System 
 
-This is a web application , a Content Based Recommendation ,here user can search a movie wiht its title and the web  application will give 5 similar movies based on the user's search.
+This is a web application , a Content Based Recommendation System ,here user can search a movie with its title and then  the web  application will give 5 similar movies based on the user's search.
 
 For this application i used a tmdb(https://developers.themoviedb.org/3/getting-started/introduction)  API for featching  posters and title of  movies.
 
@@ -27,6 +27,9 @@ For this application i used a tmdb(https://developers.themoviedb.org/3/getting-s
   Natural Language Processing
   
   Machine Lerning
+  
+  
+  for finding the similarity by Cosine Similarity
   
   #### App Demo
   
