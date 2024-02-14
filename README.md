@@ -1,8 +1,8 @@
 # Movies Recommendation System 
 
-This is a web application , a Content Based Recommendation System ,here user can search a movie with its title and then  the web  application will give 5 similar movies based on the user's search.
+This is a web application that functions as a Content-Based Recommendation System. Users can search for a movie by its title, and the application will provide five similar movies based on the user's search.
 
-For this application i used a tmdb(https://developers.themoviedb.org/3/getting-started/introduction)  API for featching  posters and title of  movies.
+For this application, I used The Movie Database (TMDb) API (https://developers.themoviedb.org/3/getting-started/introduction) to fetch movie posters and titles
 
 ##### Live link of this web app: https://mlmoviesrecommendation.herokuapp.com
 
